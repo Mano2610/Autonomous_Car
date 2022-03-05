@@ -1,0 +1,12 @@
+future
+numpy; python_version < '3.0'
+numpy==1.18.4; python_version >= '3.0'
+pygame==2.0.1
+matplotlib
+open3d
+pandas==1.2.3
+scikit-learn==0.24.1
+Pillow==8.1.1
+tqdm==4.58.0
+opencv-python==4.5.1.48
+tensorflow==2.4.0
